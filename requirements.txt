@@ -1,0 +1,17 @@
+# Core numerics
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+
+# Data sources
+yfinance>=0.2.40
+pandas-datareader>=0.10.0   # FRED access
+
+# Storage
+pyarrow>=15.0               # parquet
+
+# Plotting
+matplotlib>=3.8
+
+# Testing
+pytest>=8.0
